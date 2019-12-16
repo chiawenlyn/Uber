@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924352960200",
+    "firebase_url": "https://uberapp-193a2.firebaseio.com",
+    "project_id": "uberapp-193a2",
+    "storage_bucket": "uberapp-193a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924352960200:android:ae4fd2bc2ad1f9ffd477fd",
+        "android_client_info": {
+          "package_name": "com.oneinlife.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924352960200-aitqtj7crpt4m4jqch3uqd1pqmo4hksb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneinlife.uber",
+            "certificate_hash": "0ace71347046c5ffbda948046cba297cdbc21bd4"
+          }
+        },
+        {
+          "client_id": "924352960200-dj3o666hihlofuafrauc4poeq9a3ehv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA20rWtmen5WspDbFSZYGA7jmjfHZO6tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924352960200-dj3o666hihlofuafrauc4poeq9a3ehv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
